@@ -12,7 +12,7 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 - 💬 Ask me about **Control Systems and AI/ML**
 - 📫 ***How to reach me:*** oluwakayode.olamoyegun@gmail.com
 - 😄 Pronouns: You can give one.
-- ⚡ ***Fun fact:*** I love music!:musical_n
+- ⚡ ***Fun fact:*** I love music!:musical_r
 
 
 <!--
