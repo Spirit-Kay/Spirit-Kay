@@ -1,5 +1,5 @@
 # **Oluwakayode Olamoyegun**
-![image](https://user-images.githubusercontent.com/52291447/116793826-1012a700-aac1-11eb-827f-06b8c519da12.png) https://twitter.com/Olamoyegun_Kay
+![download](https://user-images.githubusercontent.com/52291447/116793964-c9717c80-aac1-11eb-8ff3-329b1862f542.png)https://twitter.com/Olamoyegun_Kay
 ![image](https://user-images.githubusercontent.com/52291447/116793651-e311c480-aabf-11eb-991e-cba76ad8cb19.png)(https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)
 ![image](https://user-images.githubusercontent.com/52291447/116793673-0472b080-aac0-11eb-9e73-49936be57e7d.png)(oluwakayode.olamoyegun@gmail.com)
 ![image](https://user-images.githubusercontent.com/52291447/116793339-2cf9ab00-aabe-11eb-980a-79f8e7d1e05c.png)https://www.kaggle.com/olamoyegunkayode
