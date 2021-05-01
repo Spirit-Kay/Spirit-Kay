@@ -1,11 +1,7 @@
 # **Oluwakayode Olamoyegun**
 
 
-![image](https://user-images.githubusercontent.com/52291447/116793573-6aab0380-aabf-11eb-941a-44c79b21b6ca.png) https://twitter.com/Olamoyegun_Kay
-
-
-
-![image](https://user-images.githubusercontent.com/52291447/116793651-e311c480-aabf-11eb-991e-cba76ad8cb19.png)(https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)
+![image](https://user-images.githubusercontent.com/52291447/116793573-6aab0380-aabf-11eb-941a-44c79b21b6ca.png) https://twitter.com/Olamoyegun_Kay ![image](https://user-images.githubusercontent.com/52291447/116793651-e311c480-aabf-11eb-991e-cba76ad8cb19.png)(https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)
 
 
 
