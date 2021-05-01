@@ -1,7 +1,7 @@
 ![Twitter logo image](extras/logo.gif) [Twitter Profile]https://twitter.com/Olamoyegun_Kay    
 ![Linkedin logo image](extras/logo.gif) [Linkedin Profile](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)  
 ![Gmail logo image](extras/logo.gif)[email](oluwakayode.olamoyegun@gmail.com) 
-![image](https://user-images.githubusercontent.com/52291447/116793339-2cf9ab00-aabe-11eb-980a-79f8e7d1e05c.png)(extras/logo.gif)https://www.kaggle.com/olamoyegunkayode
+![image](https://user-images.githubusercontent.com/52291447/116793339-2cf9ab00-aabe-11eb-980a-79f8e7d1e05c.png)https://www.kaggle.com/olamoyegunkayode
 
 
 ### Hi there 👋
