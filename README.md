@@ -1,7 +1,8 @@
 ![Twitter logo image](extras/logo.gif) [Twitter Profile]https://twitter.com/Olamoyegun_Kay    
 ![Linkedin logo image](extras/logo.gif) [Linkedin Profile](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)  
 ![Gmail logo image](extras/logo.gif)[email](oluwakayode.olamoyegun@gmail.com) 
-![Kaggle logo image](extras/logo.gif)[Kaggle Profile]https://www.kaggle.com/olamoyegunkayode
+![image](https://user-images.githubusercontent.com/52291447/116793339-2cf9ab00-aabe-11eb-980a-79f8e7d1e05c.png)(extras/logo.gif)[Kaggle Profile]https://www.kaggle.com/olamoyegunkayode
+
 
 ### Hi there 👋
 I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility. My core area of interests are Deep Reinforcement Learning,Control Systems and Computational Neuroscience. I have a great knack for learning new things.
