@@ -1,7 +1,5 @@
 # **Oluwakayode Olamoyegun**
-[![download](https://user-images.githubusercontent.com/52291447/116794002-0473b000-aac2-11eb-8862-3a8f1877e283.png)](https://twitter.com/Olamoyegun_Kay)
-
-[![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795103-6b956280-aaca-11eb-8254-0bded94450ce.png)](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)
+[![download](https://user-images.githubusercontent.com/52291447/116794002-0473b000-aac2-11eb-8862-3a8f1877e283.png)](https://twitter.com/Olamoyegun_Kay) [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795103-6b956280-aaca-11eb-8254-0bded94450ce.png)](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)
 
 
 ![image](https://user-images.githubusercontent.com/52291447/116793651-e311c480-aabf-11eb-991e-cba76ad8cb19.png)(https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)
