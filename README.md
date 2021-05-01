@@ -1,6 +1,5 @@
-
 # **Oluwakayode Olamoyegun**
-[![download](https://user-images.githubusercontent.com/52291447/116795575-ef9d1980-aacd-11eb-862b-06f224433d16.png)](https://twitter.com/Olamoyegun_Kay)    [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/) [![Gmail-Logo wine](https://user-images.githubusercontent.com/52291447/116795279-c4b1c600-aacb-11eb-9e93-c3814df31372.png)](oluwakayode.olamoyegun@gmail.com) [![download (1)](https://user-images.githubusercontent.com/52291447/116795394-7c46d800-aacc-11eb-84bd-66559c67bdab.png)](https://www.kaggle.com/olamoyegunkayode)
+[![download](https://user-images.githubusercontent.com/52291447/116795575-ef9d1980-aacd-11eb-862b-06f224433d16.png)](https://twitter.com/Olamoyegun_Kay)    [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/) [![Gmail-Logo wine](https://user-images.githubusercontent.com/52291447/116795621-3ee34a00-aace-11eb-9155-3e185ff83a85.png)](oluwakayode.olamoyegun@gmail.com) [![download (1)](https://user-images.githubusercontent.com/52291447/116795394-7c46d800-aacc-11eb-84bd-66559c67bdab.png)](https://www.kaggle.com/olamoyegunkayode)
 
 
 ### Hi there 👋
