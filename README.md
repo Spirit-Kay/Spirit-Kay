@@ -1,6 +1,9 @@
-![Twitter logo image](extras/logo.gif) [Twitter Profile]https://twitter.com/Olamoyegun_Kay    
-![Linkedin logo image](extras/logo.gif) [Linkedin Profile](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)  
-![Gmail logo image](extras/logo.gif)[email](oluwakayode.olamoyegun@gmail.com) 
+![Twitter logo image](extras/logo.gif) [Twitter Profile]https://twitter.com/Olamoyegun_Kay
+
+![Linkedin logo image](extras/logo.gif) [Linkedin Profile](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)
+
+![image](https://user-images.githubusercontent.com/52291447/116793396-7813be00-aabe-11eb-8422-9cd0c68a08f6.png)(oluwakayode.olamoyegun@gmail.com)
+
 ![image](https://user-images.githubusercontent.com/52291447/116793339-2cf9ab00-aabe-11eb-980a-79f8e7d1e05c.png)https://www.kaggle.com/olamoyegunkayode
 
 
