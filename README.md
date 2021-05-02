@@ -10,7 +10,7 @@
 ![BabyishGeneralFruitfly-max-1mb](https://user-images.githubusercontent.com/52291447/116824420-000ecc00-ab82-11eb-8f54-c58f8a7390ac.gif)
 
 ### Hi there 👋
-I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility. My core area of interests are Deep Reinforcement Learning,Control Systems and Computational Neuroscience. I have a great knack for learning new things.
+I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility. My core area of interests are **Deep Reinforcement Learning,Control Systems and Computational Neuroscience**. I have a great knack for learning new things.
 - 🔭 I’m currently working on a Deep Learning Project.
 - 🌱 I’m currently learning **Computational Neuroscience, Deep Reinforcement Learning as well as best practices for AI/ML projects.**
 - 👯 I’m looking to collaborate on **Deep Reinforcement Learning,Control Systems and Computational Neuroscience projects.**
