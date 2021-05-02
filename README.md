@@ -3,9 +3,9 @@
 [![download](https://user-images.githubusercontent.com/52291447/116795575-ef9d1980-aacd-11eb-862b-06f224433d16.png)](https://twitter.com/Olamoyegun_Kay)     [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)  [![Gmail-Logo wine](https://user-images.githubusercontent.com/52291447/116795621-3ee34a00-aace-11eb-9155-3e185ff83a85.png)](oluwakayode.olamoyegun@gmail.com)  [![download (1)](https://user-images.githubusercontent.com/52291447/116795671-a0a3b400-aace-11eb-9ed2-a5467ee7b44c.png)](https://www.kaggle.com/olamoyegunkayode)
 
 
-![image](https://user-images.githubusercontent.com/52291447/116823862-d7d19e00-ab7e-11eb-96e6-ccdceb7ea6e8.png)
+![image](https://user-images.githubusercontent.com/52291447/116823862-d7d19e00-ab7e-11eb-96e6-ccdceb7ea6e8.gif)
 
-
+![](name-of-giphy.gif)
 
 ### Hi there 👋
 I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility. My core area of interests are Deep Reinforcement Learning,Control Systems and Computational Neuroscience. I have a great knack for learning new things.
