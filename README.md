@@ -47,6 +47,8 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 
 [![Spirit-Kay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpiritKay)](https://github.com/SpiritKay/github-readme-stats)
 
+<figure><embed src="https://wakatime.com/share/@SpiritKay/69529f2d-89ea-4176-8fac-29d697ee9275.svg"></embed></figure>
+
 
 <!--
 **Spirit-Kay/Spirit-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
