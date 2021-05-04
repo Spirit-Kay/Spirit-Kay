@@ -1,7 +1,5 @@
 
 
-
-
 # **Oluwakayode Olamoyegun**
 
 ![ActiveCourteousAmericanindianhorse](https://user-images.githubusercontent.com/52291447/116824170-b70a4800-ab80-11eb-95f4-bc7e56c735a4.gif)  ![WelldocumentedImprobableHousefly](https://user-images.githubusercontent.com/52291447/116824940-a956c180-ab84-11eb-94ae-9124b86450fc.gif)        ![BabyishGeneralFruitfly-max-1mb](https://user-images.githubusercontent.com/52291447/116824420-000ecc00-ab82-11eb-8f54-c58f8a7390ac.gif)
@@ -47,7 +45,6 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 
 [![Spirit-Kay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpiritKay)](https://github.com/SpiritKay/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@SpiritKay/69529f2d-89ea-4176-8fac-29d697ee9275.svg"></embed></figure>
 
 
 <!--
