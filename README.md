@@ -30,14 +30,7 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 
 
 ### **Languages and Tools:**
-![1200px-Python_icon_(black_and_white) svg](https://user-images.githubusercontent.com/52291447/117031793-d5934f00-acf8-11eb-9a17-1c02d529beed.png)
-
-![MATLAB-logo2](https://user-images.githubusercontent.com/52291447/117032023-0ffcec00-acf9-11eb-8084-bd5d730282e1.png)
-
-![227-2271689_transparent-anaconda-logo-png](https://user-images.githubusercontent.com/52291447/117031293-569e1680-acf8-11eb-8fec-93c592126e64.png)
-![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/52291447/117031352-66b5f600-acf8-11eb-87f0-6ed8ba82865d.png)
-![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/52291447/117031428-78979900-acf8-11eb-979d-e06d6611adbd.png)
-![visual-studio-code-logo](https://user-images.githubusercontent.com/52291447/117031488-89480f00-acf8-11eb-90d9-f3fc3240e489.png)
+![1200px-Python_icon_(black_and_white) svg](https://user-images.githubusercontent.com/52291447/117031793-d5934f00-acf8-11eb-9a17-1c02d529beed.png) ![MATLAB-logo2](https://user-images.githubusercontent.com/52291447/117032023-0ffcec00-acf9-11eb-8084-bd5d730282e1.png) ![227-2271689_transparent-anaconda-logo-png](https://user-images.githubusercontent.com/52291447/117031293-569e1680-acf8-11eb-8fec-93c592126e64.png) ![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/52291447/117031352-66b5f600-acf8-11eb-87f0-6ed8ba82865d.png)![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/52291447/117031428-78979900-acf8-11eb-979d-e06d6611adbd.png) ![visual-studio-code-logo](https://user-images.githubusercontent.com/52291447/117031488-89480f00-acf8-11eb-90d9-f3fc3240e489.png)
 
 
 
