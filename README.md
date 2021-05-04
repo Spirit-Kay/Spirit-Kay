@@ -41,9 +41,7 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 
 
 
-api/top-langs?username=Spirit-Kay
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spirit-Kay)](https://github.com/Spirit-Kay/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spirit-Kay&layout=compact)](https://github.com/Spirit-Kay/github-readme-stats)
+
 
 ![Spirit-Kay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spirit-Kay&show_icons=true&theme=radical)
 
