@@ -30,7 +30,9 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 [![download](https://user-images.githubusercontent.com/52291447/116795575-ef9d1980-aacd-11eb-862b-06f224433d16.png)](https://twitter.com/Olamoyegun_Kay)     [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/oluwakayode-olamoyegun-a6994736/)  [![Gmail-Logo wine](https://user-images.githubusercontent.com/52291447/116795621-3ee34a00-aace-11eb-9155-3e185ff83a85.png)](oluwakayode.olamoyegun@gmail.com)  [![download (1)](https://user-images.githubusercontent.com/52291447/116795671-a0a3b400-aace-11eb-9ed2-a5467ee7b44c.png)](https://www.kaggle.com/olamoyegunkayode) [![iconfinder_160_Hackerrank_logo_logos_4373713](https://user-images.githubusercontent.com/52291447/117027485-a549b180-acf4-11eb-85a4-6fa524ead3ca.png)](https://www.hackerrank.com/oluwakayode_ola1)
 
 
+
 ### **Languages and Tools:**
+
 ![1200px-Python_icon_(black_and_white) svg](https://user-images.githubusercontent.com/52291447/117032710-9b767d00-acf9-11eb-98e4-6cbd73b4e4e6.png)
 ![MATLAB-logo - Copy](https://user-images.githubusercontent.com/52291447/117032921-d4165680-acf9-11eb-9465-572e5a33fe7b.png)
 ![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/52291447/117032957-dd072800-acf9-11eb-83ac-faa63e41bd57.png)
