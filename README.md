@@ -47,7 +47,7 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 
 [![Spirit-Kay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spirit-Kay&theme=coral)](https://github.com/Spirit-Kay/github-readme-activity-graph)
 
-
+![Profile views](https://gpvc.arturio.dev/[Spirit-Kay])
 <!--
 **Spirit-Kay/Spirit-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
