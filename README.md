@@ -2,6 +2,7 @@
 
 
 
+
 # **Oluwakayode Olamoyegun**
 
 ![ActiveCourteousAmericanindianhorse](https://user-images.githubusercontent.com/52291447/116824170-b70a4800-ab80-11eb-95f4-bc7e56c735a4.gif)  ![WelldocumentedImprobableHousefly](https://user-images.githubusercontent.com/52291447/116824940-a956c180-ab84-11eb-94ae-9124b86450fc.gif)        ![BabyishGeneralFruitfly-max-1mb](https://user-images.githubusercontent.com/52291447/116824420-000ecc00-ab82-11eb-8f54-c58f8a7390ac.gif)
@@ -30,7 +31,14 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 
 
 ### **Languages and Tools:**
-![1200px-Python_icon_(black_and_white) svg](https://user-images.githubusercontent.com/52291447/117031793-d5934f00-acf8-11eb-9a17-1c02d529beed.png) ![MATLAB-logo2](https://user-images.githubusercontent.com/52291447/117032023-0ffcec00-acf9-11eb-8084-bd5d730282e1.png) ![227-2271689_transparent-anaconda-logo-png](https://user-images.githubusercontent.com/52291447/117031293-569e1680-acf8-11eb-8fec-93c592126e64.png) ![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/52291447/117031352-66b5f600-acf8-11eb-87f0-6ed8ba82865d.png)![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/52291447/117031428-78979900-acf8-11eb-979d-e06d6611adbd.png) ![visual-studio-code-logo](https://user-images.githubusercontent.com/52291447/117031488-89480f00-acf8-11eb-90d9-f3fc3240e489.png)
+![1200px-Python_icon_(black_and_white) svg](https://user-images.githubusercontent.com/52291447/117032710-9b767d00-acf9-11eb-98e4-6cbd73b4e4e6.png)
+![MATLAB-logo - Copy](https://user-images.githubusercontent.com/52291447/117032921-d4165680-acf9-11eb-9465-572e5a33fe7b.png)
+![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/52291447/117032957-dd072800-acf9-11eb-83ac-faa63e41bd57.png)
+![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/52291447/117032978-e2647280-acf9-11eb-9fc0-9f34050fe876.png)
+![227-2271689_transparent-anaconda-logo-png](https://user-images.githubusercontent.com/52291447/117032998-e5f7f980-acf9-11eb-9aab-0eba13c03f8f.png)
+![visual-studio-code-logo](https://user-images.githubusercontent.com/52291447/117033029-ea241700-acf9-11eb-8d8e-4d6be99995c2.png)
+
+
 
 
 
