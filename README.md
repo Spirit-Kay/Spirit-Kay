@@ -9,6 +9,29 @@
 
 
 
+val imageList = ArrayList<SlideModel>() // Create image list
+
+// imageList.add(SlideModel("String Url" or R.drawable)
+// imageList.add(SlideModel("String Url" or R.drawable, "title") You can add title
+
+imageList.add(SlideModel("https://user-images.githubusercontent.com/52291447/116824170-b70a4800-ab80-11eb-95f4-bc7e56c735a4.gif", "The animal population in 42 years."))
+imageList.add(SlideModel("(https://user-images.githubusercontent.com/52291447/116824940-a956c180-ab84-11eb-94ae-9124b86450fc.gif)", "Elephants and tigers may become extinct."))
+imageList.add(SlideModel("https://user-images.githubusercontent.com/52291447/116824420-000ecc00-ab82-11eb-8f54-c58f8a7390ac.gif", "And people do that."))
+
+val imageSlider = findViewById<ImageSlider>(R.id.image_slider)
+imageSlider.setImageList(imageList)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Hi there 👋
 I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility. My core area of interests are **Deep Reinforcement Learning,Control Systems and Computational Neuroscience**. I have a great knack for learning new things.
