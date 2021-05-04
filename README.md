@@ -42,10 +42,8 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 
 
 
-<img align="left" alt="Spirit-Kay's Github Stats" src="https:// 
-github-readme—stats.vercel.app/api?username=Spirit-Kay&show_icons=true&
-hide_border=true" />
 
+[![Spirit-Kay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spirit-Kay)](https://github.com/Spirit-Kay/github-readme-stats)
 
 
 
