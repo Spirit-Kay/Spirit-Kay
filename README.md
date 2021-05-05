@@ -10,7 +10,6 @@
 
 
 
-
 ### Hi there 👋
 I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility. My core area of interests are **Deep Reinforcement Learning,Control Systems and Computational Neuroscience**. I have a great knack for learning new things.
 - 🔭 I’m currently working on a Deep Learning Project.
@@ -38,7 +37,6 @@ I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility.
 ![MATLAB-logo - Copy](https://user-images.githubusercontent.com/52291447/117032921-d4165680-acf9-11eb-9465-572e5a33fe7b.png)
 ![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/52291447/117032957-dd072800-acf9-11eb-83ac-faa63e41bd57.png)
 ![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/52291447/117032978-e2647280-acf9-11eb-9fc0-9f34050fe876.png)!
-
 ![227-2271689_transparent-anaconda-logo-png](https://user-images.githubusercontent.com/52291447/117032998-e5f7f980-acf9-11eb-9aab-0eba13c03f8f.png)
 ![visual-studio-code-logo](https://user-images.githubusercontent.com/52291447/117033029-ea241700-acf9-11eb-8d8e-4d6be99995c2.png)
 
