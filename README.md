@@ -11,12 +11,12 @@
 
 
 ### Hi there 👋
-I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility. My core area of interests are **Deep Reinforcement Learning,Control Systems and Computational Neuroscience**. I have a great knack for learning new things.
+I am **Oluwakayode Olamoyegun**. I am a dynamic engineer with great versatility. My core area of interests are **Deep Learning,Control Systems and Blockchain**. I have a great knack for learning new things.
 - 🔭 I’m currently working on a Deep Learning Project.
-- 🌱 I’m currently learning **Computational Neuroscience, Deep Reinforcement Learning as well as best practices for AI/ML projects.**
-- 👯 I’m looking to collaborate on **Deep Reinforcement Learning,Control Systems and Computational Neuroscience projects.**
-- 🤔 I’m looking for help with **Quantum ML and Quantum Computing**
-- 💬 Ask me about **Control Systems and AI/ML**
+- 🌱 I’m currently learning **Blockchain.**
+- 👯 I’m looking to collaborate on **Control Systems and Blockchain projects.**
+- 🤔 I’m looking for help with **Blockchain,Quantum ML and Quantum Computing**
+- 💬 Ask me about **Control Systems and Blockchain**
 - 📫 ***How to reach me:*** oluwakayode.olamoyegun@gmail.com
 - 😄 Pronouns: You can give one.
 - ⚡ ***Fun fact:*** I love music! :musical_score:
